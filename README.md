@@ -33,5 +33,5 @@ v10.19.0
 # Compiling
 
 ```
-$ node 
+$ node main.js
 ```
