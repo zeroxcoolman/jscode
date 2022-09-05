@@ -29,3 +29,9 @@ $ node -v
 ```
 v10.19.0
 ```
+
+# Compiling
+
+```
+$ node 
+```
