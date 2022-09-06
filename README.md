@@ -35,3 +35,9 @@ v10.19.0
 ```
 $ node main.js
 ```
+
+# Output
+
+```
+Hello, World!
+```
